@@ -10,4 +10,6 @@ setup(
   download_url = 'https://github.com/sudouser2010/flask_simple_accounts/archive/1.0.tar.gz',
   keywords = ['flask', 'simple', 'accounts'],
   classifiers = [],
+  python_requires='~=3.6',
+  install_requires=['flask_multiple_static_folders', 'flask_beautiful_messages', 'flask_render_specific_template'],
 )
