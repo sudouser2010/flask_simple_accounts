@@ -46,6 +46,7 @@ class Config(object):
         'verify_email': '/verify-email',
         'log_in': '/log-in',
         'log_out': '/log-out',
+        'change_email': '/change_email',
         'change_password': '/change_password',
         'delete_account': '/delete-account',
     }
