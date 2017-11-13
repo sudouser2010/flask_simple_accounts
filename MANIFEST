@@ -2,5 +2,8 @@
 LICENSE.txt
 setup.cfg
 setup.py
-flask_beautiful_messages/__init__.py
-flask_beautiful_messages/helper.py
+flask_simple_accounts/__init__.py
+flask_simple_accounts/config.py
+flask_simple_accounts/constants.py
+flask_simple_accounts/helper.py
+flask_simple_accounts/models.py
