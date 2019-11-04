@@ -12,7 +12,7 @@ setup(
   classifiers = [],
   python_requires='~=3.6',
   install_requires=[
-  'flask==0.12.2',
+  'flask==1.0',
   'flask_multiple_static_folders', 'flask_beautiful_messages', 'flask_render_specific_template',
   'SQLAlchemy==1.1.10', 'bcrypt==3.1.3', 'Flask-Mail==0.9.1',
   'flask_login==0.4.0', 'flask_sqlalchemy',
